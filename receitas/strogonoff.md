@@ -1,7 +1,3 @@
-**negrito entre asteriscos**
-_italico entre underscores_
-lista n ordenada = espaco negativo espaco
----
 # Strogonoff de Carne ![Image](https://findicons.com/files/icons/1050/pidgin_old_tango_smilies/24/cow.png)
 ---
 ### Ingredientes
